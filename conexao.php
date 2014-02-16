@@ -1,3 +1,3 @@
 <?php
-      $conexao = mysqli_connect("localhost", "root", "Jefjam02", "php_caelum");
+      $conexao = mysqli_connect("localhost", "USER", "PASS", "NOME_SCHEMA");
 ?>
